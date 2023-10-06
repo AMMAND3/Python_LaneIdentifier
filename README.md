@@ -1,10 +1,6 @@
 # Finding Lane Lines on the Road
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
-This project detects lane lines using Python and OpenCV. A video of the end-result can be found at:
-
-https://www.youtube.com/watch?v=EZcHGsPX55Y
-
 ## Dependencies
 * Python 3.5
 * NumPy
